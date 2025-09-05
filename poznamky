@@ -1,0 +1,7 @@
+textove subory = .txt
+textove subory + formatovanie
+.html->.xml
+.csv , hodnoty oddelene ciarkou alebo bodkociarkou(Coma Separated Value)
+spracovanie v pythone -> .strip(',;')
+.json-javascript => cez [] a {}
+popisne subory ktore popisuje data a vymienat data medzi jednotlivymi systemami
